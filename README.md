@@ -1,0 +1,1 @@
+para compilar o typescript basta usar o comando "npx tsc" e o css utilizando o tailwind css "npx tailwindcss -i ./public/style.css -o ./public/output.css"
